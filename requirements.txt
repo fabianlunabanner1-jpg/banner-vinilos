@@ -1,2 +1,6 @@
 flask
 psycopg2-binary
+
+streamlit
+psycopg2-binary
+pandas
